@@ -57,6 +57,6 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <WriteLine DisplayName="First activity" sap:VirtualizedContainerService.HintSize="388,90" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Write Line in Sravan.XAML" />
-    <WriteLine DisplayName="First activity" sap:VirtualizedContainerService.HintSize="388,90" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="Write Line Activity added after creating Sravan Repo" />
+    <WriteLine DisplayName="Activity After Creating SravanChanges Branch" sap:VirtualizedContainerService.HintSize="388,90" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="Write Line Activity added after creating Sravan Repo" />
   </Sequence>
 </Activity>
